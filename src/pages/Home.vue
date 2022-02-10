@@ -7,3 +7,15 @@
     </section>
   </div>
 </template>
+
+<script>
+// import defineComponent  from './components'
+
+export default {
+  data() {
+    return {};
+  },
+};
+</script>
+
+<style lang="scss" scoped></style>
