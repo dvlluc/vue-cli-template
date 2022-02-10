@@ -1,3 +1,5 @@
+# VUE CLI TEMPLATE (vue-routes, store, base structure, scss(original structure))  
+
 # vue-cli
 
 ## Project setup
